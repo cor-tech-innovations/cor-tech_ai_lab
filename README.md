@@ -12,6 +12,12 @@ This section contains the hands-on projects I built while preparing for the AI-1
 * **Accomplishment:** Engineered a robust system prompt ("Instructions") to ground the `gpt-4o` model, ensuring it *only* answered questions based on private CMMC documentation and securely refused all off-topic queries.
 * **Skills:** `Azure AI Foundry`, `Generative AI`, `RAG`, `Prompt Engineering`, `Security & Grounding`
 
+### 📸 Prototype 2: Insurance Claim App V0.1 (Custom Vision)
+
+* **Project:** Developed an **Object Detection** model in **Azure Custom Vision** to identify 'dents' and 'scratches' on vehicles for an automated insurance claim app.
+* **Accomplishment:** Successfully trained the model to distinguish between real damage and false positives (like light reflections and shadows) by adding a dedicated **'Negative' image class**, significantly improving model precision.
+* **Skills:** `Azure Custom Vision`, `Object Detection`, `Model Training`, `Troubleshooting`, `False Positives`
+
 ### 🏷️ Prototype 3: Helpdesk Sorter V1 (Custom Language)
 
 * **Project:** Built and trained a **Custom Text Classification** model in **Azure AI Language Studio** to automatically triage helpdesk tickets.
